@@ -1,0 +1,125 @@
+.top {
+  background-color: #f0fff0;
+}
+.bg-light {
+  background-color: #f0fff0 !important;
+}
+.feature {
+  background: #f8fffb;
+  border-radius: 10px;
+  height: 270px;
+  width: 270px;
+}
+.col-md-3 img {
+  height: 85px;
+  width: 66px;
+}
+
+.card-footer {
+  border: none;
+  background-color: transparent;
+}
+button {
+  /* padding: 8px 28px; */
+  /* display: flex; */
+  /* flex-direction: row; */
+  /* width: 137px;
+  height: 35px;
+  left: 158px;
+  top: 1461px; */
+
+  background: #21b573;
+  border-radius: 33px;
+}
+
+ul {
+  list-style: none;
+}
+.mini-icon {
+  width: 24px;
+  height: 24px;
+  margin-right: 5px;
+}
+.card > img {
+  width: 92%;
+  height: 234px;
+  /* left: 90px; */
+  top: 1126px;
+  margin-top: 15px;
+  /* margin-right: 0px; */
+  margin-left: 15px;
+  background: #cfb6b6;
+  border-radius: 11px;
+}
+/* #btn {
+  background-color: #21b573;
+  border-radius: 33px;
+  height: 33px;
+  width: 95px;
+  text-align: center;
+  color: white;
+  padding-top: 3px;
+} */
+
+.card {
+  border: none;
+}
+.col-md-3 ul {
+  text-decoration: none;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 30px;
+}
+
+.footnote {
+  border-radius: 10px;
+  width: 270px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 30px;
+  color: #ffffff;
+}
+body {
+  font-family: Poppins;
+}
+.card-text {
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  color: #585859;
+}
+
+.feature:hover {
+  background: #ffffff;
+  box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.sign-in-button {
+  background-color: #21b573;
+  border-radius: 33px;
+  height: 33px;
+  width: 105px;
+  text-align: center;
+  color: white;
+  padding: 5px 15px 7px 15px;
+}
+.buy-course-button {
+  background-color: #21b573;
+  border-radius: 33px;
+  height: 33px;
+  width: 95px;
+  text-align: center;
+  color: white;
+  padding: 7px 20px 7px 20px;
+}
+h1 {
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 70px;
+}
